@@ -11,10 +11,17 @@ namespace Program
             Console.WriteLine("Enter a number to check whether it is +/-/0: ");
             num = Convert.ToInt16(Console.ReadLine());
 
-            switch(num)
+            if (num > 0)
             {
-                case 1:
-                Console.WriteLine($"{num} is positive number...");
+                Console.WriteLine($"{num} is a Positive Number...");
+            }
+            else if (num == 0)
+            {
+                Console.WriteLine($"{num} is a Zero...");
+            }
+            else
+            {
+                Console.WriteLine($"{num} is a Negative Number...");
             }
 
         }
