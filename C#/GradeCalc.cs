@@ -9,7 +9,8 @@ namespace Program
             Console.WriteLine("Enter you marks out of 100: ");
             float marks;
 
-            switch(marks): {
+            switch(marks=0)
+            {
                 
             }
         }
