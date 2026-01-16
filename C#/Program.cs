@@ -1,6 +1,6 @@
 ﻿
 using System;
-using HelloApp;
+using System.ComponentModel;
 
 namespace Program
 {
@@ -9,6 +9,7 @@ namespace Program
         public static void Main(string[] args)
         {
             Hello1.Run();
+            Add.Run();
         }
     }
 }
