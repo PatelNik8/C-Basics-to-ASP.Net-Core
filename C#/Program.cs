@@ -11,7 +11,8 @@ namespace Program
             //Hello1.Run();
             //Add.Run();
             //Greater.Run();
-            LargestNum.Run();
+            //LargestNum.Run();
+            Odd_Even.Run();
         }
     }
 }
