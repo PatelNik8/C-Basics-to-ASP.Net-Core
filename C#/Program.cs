@@ -10,7 +10,8 @@ namespace Program
         {
             //Hello1.Run();
             //Add.Run();
-            Greater.Run();
+            //Greater.Run();
+            LargestNum.Run();
         }
     }
 }
