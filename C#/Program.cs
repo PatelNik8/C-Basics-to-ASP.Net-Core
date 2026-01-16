@@ -8,8 +8,9 @@ namespace Program
     {
         public static void Main(string[] args)
         {
-            Hello1.Run();
-            Add.Run();
+            //Hello1.Run();
+            //Add.Run();
+            Greater.Run();
         }
     }
 }
