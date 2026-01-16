@@ -7,11 +7,14 @@ namespace Program
         public static void Run()
         {
             Console.WriteLine("Enter you marks out of 100: ");
-            float marks;
+            double marks;
 
             switch(marks=0)
             {
+
+            case 1:
                 
+
             }
         }
     }
